@@ -15,6 +15,14 @@
 <li><ins>Bootstrap</ins> <i>(A combination of HTML, CSS and Javascript. Pay Attention! A combination, but not a simpler one!)</i></li>
 </ul>
 <hr>
+
+<p>Also, check out my articles about UX on Medium</p>
+<ol>
+  <li><a href="https://bootcamp.uxdesign.cc/what-is-persona-and-how-to-develop-it-to-enhance-the-design-process-83d741ea1df3" target="_blank">What is Persona and how to develop it to enhance the design process?</a></li>
+  <li><a href="https://medium.com/@eddiewuchunming/think-beyond-ux-to-achieve-better-ux-c07bd3931df0" target="_blank">UX is about helping user, not following user</a></li>
+  <li><a href="https://medium.com/@eddiewuchunming/the-ux-lesson-i-learned-from-table-manners-aaa85477550f" target="_blank">The UX lesson I learned from table manners</a></li>
+  </ol>
+<hr>
 <p>
   🌱 I’m currently learning <b>Tensorflow</b>, <b>Calculus: Differentiation & Integration</b>, <b>Quantum Physics</b>. 
 </p>
@@ -29,6 +37,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> --> 
 </div>
+
 
 <!--
 **mingmingeddiewu/mingmingeddiewu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
