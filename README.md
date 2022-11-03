@@ -7,7 +7,7 @@
 <p>What I have learnt:</p>
 <ul> 
 <li><ins>HTML</ins> <i>(A very great starter! Easy to manage and feel satisfied!)</i></li>
-<li><ins>CSS</ins> <i>(Hey! you can't remember them. Just figure out what is what is excellent!)</i></li>
+<li><ins>CSS</ins> <i>(Hey! you can't memorize them. Just figure out what is what is excellent!)</i></li>
 <li><ins>Javescript</ins> <i>(Not difficult but it contains too much variation that can hit your brain hard!)</i></li>
 <li><ins>SQL</ins> <i>(Very human language and very useful for any role. We are living in data world, right?)</i></li>
 <li><ins>Python</ins> <i>(Easy to learn and apply. A powerful tool for machine learning, fascinating!)</i></li>
